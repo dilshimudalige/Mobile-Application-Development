@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168725709522",
+    "project_id": "coastalheaven-97690",
+    "storage_bucket": "coastalheaven-97690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168725709522:android:bac9d350b7ad0c5604a30b",
+        "android_client_info": {
+          "package_name": "com.example.coastal_heaven"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWETy1wQxyzqcRJVF7G__zdX2j1sk1yTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

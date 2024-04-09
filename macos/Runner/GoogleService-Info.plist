@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDTSHSlR0RNTdxJp3s4qEc7RsxEtZwM4-A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>168725709522</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.coastalHeaven.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>coastalheaven-97690</string>
+	<key>STORAGE_BUCKET</key>
+	<string>coastalheaven-97690.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:168725709522:ios:bcc36cdbc9c1613b04a30b</string>
+</dict>
+</plist>
