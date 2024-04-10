@@ -119,7 +119,7 @@ class RequestCardCp extends StatelessWidget {
                           Align(
                             alignment: Alignment.centerLeft,
                             child: Container(
-                              width: MediaQuery.of(context).size.width * 0.5,
+                              width: MediaQuery.of(context).size.width * 0.4,
                               child: Text(
                                 text1,
                                 style: TextStyle(
@@ -138,7 +138,7 @@ class RequestCardCp extends StatelessWidget {
                           Row(
                             children: [
                               Container(
-                                width: MediaQuery.of(context).size.width * 0.5,
+                                width: MediaQuery.of(context).size.width * 0.4,
                                 child: Text(
                                   text4,
                                   style: TextStyle(
